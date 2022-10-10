@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: CS-METIS
+repo: p1-status-page
 
 sites:
   - name: Google
@@ -12,6 +12,9 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
+assignees: # Users to assign downtime issues (optional)
+  - geonux
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
