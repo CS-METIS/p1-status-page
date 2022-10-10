@@ -3,15 +3,17 @@ owner: CS-METIS
 repo: p1-status-page
 
 sites:
+  - name: AI4GEO main site
+    url: https://ai4geo.csgroup.eu/
   - name: P1
     url: https://p1.csgroup.space
-  - name: Processing
-    url: https://scdf.csgroup.space
   - name: Data Analytics
-    url: https://superset.p1.csgroup.space/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+    url: https://superset.p1.csgroup.space
+  - name: PGAdmin
+    url: https://pgadmin.p1.csgroup.space
+  - name: PGAdmin
+    url: https://pgadmin.p1.csgroup.space
+   
 assignees: # Users to assign downtime issues (optional)
   - geonux
   
@@ -27,8 +29,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Goto site
+      href: https://p1.csgroup.space
+    #- title: GitHub
+    #  href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
