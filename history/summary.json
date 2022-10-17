@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 3481,
     "timeDay": 3326,
-    "timeWeek": 3481,
+    "timeWeek": 2622,
     "timeMonth": 3481,
     "timeYear": 3481,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 775,
     "timeDay": 782,
-    "timeWeek": 775,
+    "timeWeek": 822,
     "timeMonth": 775,
     "timeYear": 775,
     "dailyMinutesDown": {}
@@ -40,18 +40,20 @@
     "url": "https://superset.p1.csgroup.space",
     "icon": "https://icons.duckduckgo.com/ip3/superset.p1.csgroup.space.ico",
     "slug": "data-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1535,
     "timeDay": 1779,
-    "timeWeek": 1535,
+    "timeWeek": 1668,
     "timeMonth": 1535,
     "timeYear": 1535,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-17": 0
+    }
   },
   {
     "name": "Feature server",
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 698,
     "timeDay": 792,
-    "timeWeek": 698,
+    "timeWeek": 709,
     "timeMonth": 698,
     "timeYear": 698,
     "dailyMinutesDown": {}
