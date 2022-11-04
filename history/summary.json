@@ -22,9 +22,9 @@
     "url": "https://p1.csgroup.space",
     "icon": "https://icons.duckduckgo.com/ip3/p1.csgroup.space.ico",
     "slug": "p1-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
@@ -34,6 +34,7 @@
     "timeMonth": 723,
     "timeYear": 723,
     "dailyMinutesDown": {
+      "2022-11-04": 0,
       "2022-10-27": 33,
       "2022-10-24": 36
     }
@@ -43,18 +44,19 @@
     "url": "https://superset.p1.csgroup.space",
     "icon": "https://icons.duckduckgo.com/ip3/superset.p1.csgroup.space.ico",
     "slug": "data-analytics",
-    "status": "up",
-    "uptime": "95.30%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.33%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.30%",
-    "uptimeYear": "95.30%",
+    "uptimeMonth": "95.33%",
+    "uptimeYear": "95.33%",
     "time": 1806,
     "timeDay": 874,
     "timeWeek": 1216,
     "timeMonth": 1806,
     "timeYear": 1806,
     "dailyMinutesDown": {
+      "2022-11-04": 0,
       "2022-10-24": 36,
       "2022-10-18": 1022,
       "2022-10-17": 612
@@ -65,7 +67,7 @@
     "url": "https://feature.p1.csgroup.space/",
     "icon": "https://icons.duckduckgo.com/ip3/feature.p1.csgroup.space.ico",
     "slug": "feature-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -77,6 +79,7 @@
     "timeMonth": 640,
     "timeYear": 640,
     "dailyMinutesDown": {
+      "2022-11-04": 0,
       "2022-10-24": 36
     }
   }
