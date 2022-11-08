@@ -4,9 +4,9 @@
     "url": "https://ai4geo.csgroup.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/ai4geo.csgroup.eu.ico",
     "slug": "ai-4-geo-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2520,
     "timeMonth": 2939,
     "timeYear": 2939,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-08": 0
+    }
   },
   {
     "name": "P1 Landing page",
@@ -45,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/superset.p1.csgroup.space.ico",
     "slug": "data-analytics",
     "status": "up",
-    "uptime": "95.92%",
+    "uptime": "95.96%",
     "uptimeDay": "98.95%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "95.92%",
-    "uptimeYear": "95.92%",
+    "uptimeMonth": "95.96%",
+    "uptimeYear": "95.96%",
     "time": 1672,
     "timeDay": 1033,
     "timeWeek": 1098,
