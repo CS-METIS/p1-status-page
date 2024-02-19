@@ -1,7 +1,7 @@
 url: https://ai4geo.csgroup.eu/
-status: up
-code: 200
-responseTime: 2157
-lastUpdated: 2024-02-18T23:08:02.485Z
+status: down
+code: 503
+responseTime: 8409
+lastUpdated: 2024-02-19T22:48:34.129Z
 startTime: 2022-10-10T09:19:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
