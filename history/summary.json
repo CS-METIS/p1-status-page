@@ -6,14 +6,14 @@
     "slug": "ai-4-geo-main-site",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "96.99%",
+    "uptimeDay": "98.26%",
     "uptimeWeek": "98.18%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.78%",
     "time": 3200,
-    "timeDay": 9304,
-    "timeWeek": 8118,
-    "timeMonth": 6618,
+    "timeDay": 7603,
+    "timeWeek": 8120,
+    "timeMonth": 6693,
     "timeYear": 3622,
     "dailyMinutesDown": {
       "2024-10-02": 25,
@@ -50,18 +50,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/p1.csgroup.space.ico",
     "slug": "p1-landing-page",
     "status": "down",
-    "uptime": "48.14%",
+    "uptime": "48.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.33%",
+    "uptimeYear": "0.17%",
     "time": 606,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 474,
+    "timeYear": 538,
     "dailyMinutesDown": {
-      "2024-10-02": 684,
+      "2024-10-03": 74,
+      "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
@@ -424,8 +425,7 @@
       "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
-      "2023-10-05": 1440,
-      "2023-10-04": 464
+      "2023-10-05": 1440
     }
   },
   {
@@ -434,18 +434,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/superset.p1.csgroup.space.ico",
     "slug": "data-analytics",
     "status": "down",
-    "uptime": "49.51%",
+    "uptime": "49.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.33%",
-    "time": 1218,
+    "uptimeYear": "0.17%",
+    "time": 1219,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 895,
+    "timeYear": 924,
     "dailyMinutesDown": {
-      "2024-10-02": 684,
+      "2024-10-03": 74,
+      "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
@@ -808,8 +809,7 @@
       "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
-      "2023-10-05": 1440,
-      "2023-10-04": 464
+      "2023-10-05": 1440
     }
   },
   {
@@ -827,9 +827,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 436,
+    "timeYear": 525,
     "dailyMinutesDown": {
-      "2024-10-02": 684,
+      "2024-10-03": 74,
+      "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
@@ -1192,8 +1193,7 @@
       "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
-      "2023-10-05": 1440,
-      "2023-10-04": 1440
+      "2023-10-05": 1440
     }
   }
 ]
