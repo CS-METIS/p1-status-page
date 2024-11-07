@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 3224,
-    "timeDay": 1967,
-    "timeWeek": 2220,
-    "timeMonth": 2272,
+    "time": 3225,
+    "timeDay": 2154,
+    "timeWeek": 2241,
+    "timeMonth": 2266,
     "timeYear": 3628,
     "dailyMinutesDown": {
       "2024-10-02": 25,
@@ -50,18 +50,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/p1.csgroup.space.ico",
     "slug": "p1-landing-page",
     "status": "down",
-    "uptime": "45.94%",
+    "uptime": "45.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 602,
+    "time": 596,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 73,
+      "2024-11-07": 74,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
@@ -424,8 +425,7 @@
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
-      "2023-11-09": 1440,
-      "2023-11-08": 1440
+      "2023-11-09": 1440
     }
   },
   {
@@ -434,18 +434,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/superset.p1.csgroup.space.ico",
     "slug": "data-analytics",
     "status": "down",
-    "uptime": "47.25%",
+    "uptime": "47.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1234,
+    "time": 1231,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 73,
+      "2024-11-07": 74,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
@@ -808,8 +809,7 @@
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
-      "2023-11-09": 1440,
-      "2023-11-08": 1440
+      "2023-11-09": 1440
     }
   },
   {
@@ -818,18 +818,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/feature.p1.csgroup.space.ico",
     "slug": "feature-server",
     "status": "down",
-    "uptime": "3.85%",
+    "uptime": "3.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 515,
+    "time": 514,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 73,
+      "2024-11-07": 74,
+      "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
@@ -1192,8 +1193,7 @@
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
-      "2023-11-09": 1440,
-      "2023-11-08": 1440
+      "2023-11-09": 1440
     }
   }
 ]
